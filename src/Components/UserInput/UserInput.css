@@ -1,0 +1,14 @@
+.input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+  width: 100vw;
+  height: 50px;
+  background-color: rgb(201, 201, 201);
+}
+
+.input-container input {
+  height: 1.2rem;
+  font-size: 1.2rem;
+}
